@@ -1,0 +1,14 @@
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\bin\Debug\net10.0\practice2.exe
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\bin\Debug\net10.0\practice2.deps.json
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\bin\Debug\net10.0\practice2.runtimeconfig.json
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\bin\Debug\net10.0\practice2.dll
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\bin\Debug\net10.0\practice2.pdb
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.AssemblyInfoInputs.cache
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.AssemblyInfo.cs
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.dll
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\refint\practice2.dll
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.pdb
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\practice2.genruntimeconfig.cache
+C:\Users\romak\OneDrive\Документы\si sharp\practice2\practice2\obj\Debug\net10.0\ref\practice2.dll
